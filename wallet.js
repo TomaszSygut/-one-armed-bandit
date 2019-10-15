@@ -31,4 +31,4 @@ class Wallet {
         }
     }
 }
-const wallet = new Wallet(200)
+// const wallet = new Wallet(200)
