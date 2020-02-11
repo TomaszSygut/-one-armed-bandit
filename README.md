@@ -1,2 +1,2 @@
 # -one-armed-bandit
-Small game just for fun
+Developing skills by course "Programowanie w Javascript" using Object programming
